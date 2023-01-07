@@ -19,4 +19,9 @@
 </div>
 <br>
 <h2>:man_technologist: About Me :</h2>
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+:telescope: I am a simple guy, a programmer, who learns from YouTube videos.
+
+- :seedling: I am 16 y.o.
+
+- :zap: I like working with telegram API.
