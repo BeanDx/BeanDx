@@ -5,4 +5,7 @@
   <a href="https://t.me/PearDe">
     <img src="https://img.shields.io/badge/Telegram-ClickMe%20-blue?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Discord-ClickMe%20-blue?logo=discord&logoColor=grey&style=for-the-badge" alt="Discord Badge"/>
+  </a>
 </div>
