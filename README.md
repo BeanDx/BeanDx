@@ -39,7 +39,6 @@ I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>
 <br>
 <h2>Working Space</h2>
-My worspace: <br>
 • OS: ArchLinux <br>
 • Code editor: VScode / neovim <br>
 • Terminal: Alacritty <br>
