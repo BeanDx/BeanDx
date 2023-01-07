@@ -40,12 +40,12 @@ I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/
 <br>
 <h2>Working Space</h2>
 My worspace: <br>
-- OS: ArchLinux <br>
-- Code editor: VScode / neovim <br>
-- Terminal: Alacritty <br>
-- Window manager: i3-wm <br>
-- Laptop: lenovo g50-70 <br>
-- RAM: 8GB <br>
+• OS: ArchLinux <br>
+• Code editor: VScode / neovim <br>
+• Terminal: Alacritty <br>
+• Window manager: i3-wm <br>
+• Laptop: lenovo g50-70 <br>
+• RAM: 8GB <br>
 </div>
 
 ### :fire: My Stats :
