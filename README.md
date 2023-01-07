@@ -8,4 +8,5 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Discord-ClickMe%20-blue?logo=discord&logoColor=grey&style=for-the-badge" alt="Discord Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=BeanDx&style=flat-square&color=blue" alt=""/>
 </div>
