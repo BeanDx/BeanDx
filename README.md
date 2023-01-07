@@ -37,6 +37,15 @@ I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" title="vscode" alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="vim" alt="vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>
+<br>
+<h2>Working Space</h2>
+My worspace: <br>
+- OS: ArchLinux <br>
+- Code editor: VScode / neovim <br>
+- Terminal: Alacritty <br>
+- Window manager: i3-wm <br>
+- Laptop: lenovo g50-70 <br>
+- RAM: 8GB <br>
 </div>
 
 ### :fire: My Stats :
