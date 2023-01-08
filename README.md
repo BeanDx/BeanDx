@@ -4,16 +4,17 @@
 <div id="badges">
   <a href="https://t.me/PearDe">
     <img src="https://img.shields.io/badge/Telegram-ClickMe%20-blue?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  <a href="your-youtube-URL">
+  </a> 
+  <a align="center" href="https://discordapp.com/users/952489235695407114"> 
     <img src="https://img.shields.io/badge/Discord-ClickMe%20-blue?logo=discord&logoColor=grey&style=for-the-badge" alt="Discord Badge"/>
-  </a>
+  </a> <br>
     <img src="https://komarev.com/ghpvc/?username=BeanDx&style=flat-square&color=blue" alt=""/>
 <h1>
   Hello, world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
