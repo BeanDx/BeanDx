@@ -5,6 +5,7 @@
   <a href="https://t.me/PearDe">
     <img src="https://img.shields.io/badge/Telegram-ClickMe%20-blue?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a> 
+    <a href="https://www.buymeacoffee.com/BeanDx" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
   <a href="https://discordapp.com/users/952489235695407114"> 
     <img src="https://img.shields.io/badge/Discord-ClickMe%20-blue?logo=discord&logoColor=grey&style=for-the-badge" alt="Discord Badge"/>
   </a> <br>
