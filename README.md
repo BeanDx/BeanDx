@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/PearDe">
     <img src="https://img.shields.io/badge/Telegram-ClickMe%20-blue?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a> 
-  <a align="center" href="https://discordapp.com/users/952489235695407114"> 
+  <a href="https://discordapp.com/users/952489235695407114"> 
     <img src="https://img.shields.io/badge/Discord-ClickMe%20-blue?logo=discord&logoColor=grey&style=for-the-badge" alt="Discord Badge"/>
   </a> <br>
     <img src="https://komarev.com/ghpvc/?username=BeanDx&style=flat-square&color=blue" alt=""/>
