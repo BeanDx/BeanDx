@@ -44,8 +44,9 @@ I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/
 • OS: ArchLinux <br>
 • Code editor: VScode / neovim <br>
 • Terminal: Alacritty <br>
-• Window manager: i3-wm <br>
-• Laptop: lenovo g50-70 <br>
+• Window manager: hyprland/bspwm <br>
+• Laptop: thinkpad X230 <br>
+• Processor: Intel Core i5-3320m <br>
 • RAM: 8GB <br>
 </div>
 
