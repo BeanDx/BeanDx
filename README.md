@@ -24,7 +24,7 @@
 I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 :telescope: I am a simple guy, a programmer, who learns from YouTube videos.
 
-- :seedling: I am 17 y.o.
+- :seedling: I am 18 y.o.
 
 - :zap: I like working with telegram API.
 
@@ -46,8 +46,9 @@ I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/
 • Terminal: Alacritty <br>
 • Window manager: hyprland/bspwm <br>
 • Laptop: thinkpad X230 <br>
-• Processor: Intel Core i5-3320m <br>
-• RAM: 8GB <br>
+• Processor: Intel Core i5-11400h + i5-3320m <br>
+• GPU: RTX 3050 Laptop <br>
+• RAM: 16GB <br>
 </div>
 
 ### :fire: My Stats :
