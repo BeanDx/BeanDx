@@ -45,7 +45,7 @@ I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/
 • Code editor: VScode / neovim <br>
 • Terminal: Alacritty <br>
 • Window manager: hyprland/bspwm <br>
-• Laptop: thinkpad X230 <br>
+• Laptop: asus tuf gaming f15 + thinkpad X230 <br>
 • Processor: Intel Core i5-11400h + i5-3320m <br>
 • GPU: RTX 3050 Laptop <br>
 • RAM: 16GB <br>
