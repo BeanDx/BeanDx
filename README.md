@@ -21,7 +21,7 @@
 </div>
 <br>
 <h2>:man_technologist: About Me :</h2>
-I am a Front-end Developer from Ukraine.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+I am a Front-end Developer from Germany<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 :telescope: I am a simple guy, a programmer, who learns from YouTube videos.
 
 - :seedling: I am 19 y.o.
