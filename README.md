@@ -26,7 +26,7 @@ I am a Front-end Developer from Germany<img src="https://media.giphy.com/media/W
 
 - :seedling: I am 20 y.o.
 
-- :zap: I like working with telegram API.
+- :zap::zap: US/DE/UA/RU.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
@@ -42,13 +42,12 @@ I am a Front-end Developer from Germany<img src="https://media.giphy.com/media/W
 <br>
 <h2>Working Space</h2>
 • OS: ArchLinux <br>
-• Code editor: VScode / neovim <br>
+• Code editor: VScode / nvim <br>
 • Terminal: Alacritty <br>
 • Window manager: hyprland/bspwm <br>
-• Laptop: asus tuf gaming f15 + thinkpad X230 <br>
-• Processor: Intel Core i5-11400h + i5-3320m <br>
-• GPU: RTX 3050 Laptop <br>
-• RAM: 16GB <br>
+• CPU: Ryzen 7 9800X3D <br>
+• GPU: RX 9070 GRE <br>
+• RAM: 32GB <br>
 </div>
 
 ### :fire: My Stats :
